@@ -12,6 +12,7 @@ note Cargo.toml is like the files where dependecies in theme
 fun fact toml means [Tom's Obvious Minimal Language]
 
 ## Commands that i will use for most of time
+```
 Daily coding:     cargo check
 Run your app:     cargo run
 Before commit:    cargo test
@@ -20,7 +21,7 @@ Add dep:          cargo add serde --features derive
 Free disk space:  cargo clean
 See errors deep:  cargo build -vv
 Explain error:    cargo --explain E0502
-
+```
 ## All commands 
 ### `cargo build`
 ```bash

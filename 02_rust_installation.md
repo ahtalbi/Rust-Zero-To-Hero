@@ -97,3 +97,5 @@ you should ask what each one includes ?
 | `sources` | **Standard library source code** — the actual Rust source files; useful for debugging, understanding internals, and advanced IDE features | ❌ | ❌ | ✅ |
  
 ---
+
+one thing you install also by default is the ``rustup`` — The Rust toolchain installer and version manager that installs, updates, and controls all components above.
