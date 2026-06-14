@@ -6,6 +6,8 @@
 
 ### the options i will chose personally if i am learning.
 ### (custom > default > stable > complete)
+for me the command is
+`curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh -s -- -y --default-toolchain stable --profile complete`
 ```
    default host triple:                     x86_64-unknown-linux-gnu
      default toolchain: stable
