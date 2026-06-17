@@ -1,4 +1,4 @@
-# infomrations about cargo the (package manager for rust)
+# cargo is the (package manager for rust)
 
 cargo means like some thing shipped example product in hour case its packages dependencies.
 
